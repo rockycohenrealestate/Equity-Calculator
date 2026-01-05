@@ -1,0 +1,5 @@
+{
+  "name": "Equity to Opportunity Calculator",
+  "description": "A calculator for homeowners in Manitowoc, WI to determine if they have enough equity to upgrade their home, considering current interest rates and outstanding debts. It also provides AI-powered market insights.",
+  "requestFramePermissions": []
+}
